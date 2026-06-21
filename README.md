@@ -130,6 +130,8 @@ Dataset Used: https://www.kaggle.com/datasets/andrewmvd/hard-hat-detection?utm_s
 
 Vikash Verma
 
+Live: https://ppe-12.streamlit.app/
+
 GitHub: https://github.com/imvk01/PPE-Compliance-Detection-using-Deep-Learning
 
 LinkedIn: https://www.linkedin.com/in/imvk1/
