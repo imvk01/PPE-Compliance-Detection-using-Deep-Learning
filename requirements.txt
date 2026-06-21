@@ -1,12 +1,3 @@
-# streamlit
-# ultralytics
-# opencv-python
-# numpy
-# pillow
-# torch
-# torchvision
-
-
 streamlit
 ultralytics
 opencv-python-headless
