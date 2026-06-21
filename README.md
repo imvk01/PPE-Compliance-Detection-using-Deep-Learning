@@ -103,7 +103,7 @@ outputs/videoResult
 
 Run:
 
-python3 app.py
+streamlit run app.py
 
 Choose:
 
